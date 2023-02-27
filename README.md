@@ -4,7 +4,7 @@
 allow us to change, modify, customize and temporarily view the web page differently. 
 To alter the page, we must have an expression, or condition and a CSS style or rule
 to be permitted after the expression. A media type may also be applied before the 
-condition to notify your browser if the query is for ```screen```, ```print```, or ```all```.
+condition to let your browser know if the query is for ```screen```, ```print```, or ```all```.
 
 The most common example of a media condition would be viewport/screen size.
 Applying the minimum/maximum ```width``` or ```height``` as a condition
