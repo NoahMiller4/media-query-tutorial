@@ -22,7 +22,7 @@ etc. By doing so, you will be able to change multiple aspects of your page throu
 More conditions include using ```hover```, changing the ```orientation```, and many more. 
 
 ```CSS
-@media (min-width: 480px) {
+@media (max-width: 480px) {
     body { background-color: yellow; }
     p { 
         font-size: 50px;
@@ -31,6 +31,9 @@ More conditions include using ```hover```, changing the ```orientation```, and m
     }
 }
 ```
+You must link your main index.html file to your index.css for the properties to be applied to your page
+when resizing.
+
 ### References
 [Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)\
 [CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)\
