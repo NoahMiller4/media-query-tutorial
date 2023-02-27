@@ -8,7 +8,7 @@ condition to let your browser know if the query is for ```screen```, ```print```
 
 The most common example of a media condition would be viewport/screen size.
 Applying the minimum/maximum ```width``` or ```height``` as a condition
-will affect the page when you resize it. Such as setting the ```max-width``` to 600px
+will affect the page when you resize it. Setting the ```max-width``` to 600px
 will apply the rule to your page when your width is at 600 pixels or lower.
 
 Setting a rule to your media query is essential, and your code will not work without it.
