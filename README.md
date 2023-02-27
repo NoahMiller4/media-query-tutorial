@@ -30,7 +30,7 @@ More conditions include using ```hover```, changing the ```orientation```, and m
         color: #41434b;
     }
 }
-
+```
 ### References
 [Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 [CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
