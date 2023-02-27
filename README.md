@@ -32,6 +32,6 @@ More conditions include using ```hover```, changing the ```orientation```, and m
 }
 ```
 ### References
-[Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
-[CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
+[Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)\
+[CSS Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)\
 [Responsive Web Design](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
